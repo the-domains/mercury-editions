@@ -1,0 +1,28 @@
+name: Mercury Editions
+favicon: null
+layout_spectrum: 0.9920445275492966
+typography_spectrum: 0.5773214667569846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.28553322958759964
+  lightness: 0.12880678079091012
+  saturation: 0.3324334735516459
+  rhythmicContrast: 0.7118934146128595
+purpose: []
