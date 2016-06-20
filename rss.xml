@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mercury Editions]]></title>
+        <description><![CDATA[Mercury Editions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 23:17:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>info@mercuryeditions.com</p>]]></description>
+            <link>undefinedinfomercuryeditionscom/index.html</link>
+            <guid isPermaLink="false">4a89cfef-c24f-44e2-afc6-3fc9031a8c34</guid>
+            <pubDate>Mon, 20 Jun 2016 23:17:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
